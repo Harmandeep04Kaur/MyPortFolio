@@ -8,7 +8,7 @@ const Project = () => {
       tech: ["React", "API"],
       github: "https://github.com/Harmandeep04Kaur/ClimaCast",
       live: "",
-      image: "/images/Picture2.png",
+      image: "/Images/Picture2.png",
     },
     {
       title: "Intel Internship Project",
@@ -16,7 +16,7 @@ const Project = () => {
       tech: ["Python"],
       github: "https://github.com/Harmandeep04Kaur/IntelProject",
       live: "",
-      image: "/images/Picture4.png",
+      image: "/Images/Picture4.png",
     },
     {
       title: "Tour & Travel System",
@@ -24,7 +24,7 @@ const Project = () => {
       tech: ["MERN"],
       github: "https://github.com/Harmandeep04Kaur/TravelTour",
       live: "https://travel-tour-wuyj.vercel.app/",
-      image: "/images/Picture3.png",
+      image: "/Images/Picture3.png",
     },
   ];
 
