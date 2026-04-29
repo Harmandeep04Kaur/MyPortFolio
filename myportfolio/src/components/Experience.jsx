@@ -3,9 +3,9 @@ import { Briefcase } from "lucide-react";
 
 const experiences = [
   {
-    role: "Frontend Developer Intern",
+    role: "Full Stack Developer Intern",
     company: "Sortiq Solutions",
-    duration: "Jan 2025 - June 2025",
+    duration: "Jan 2026 - Present",
     points: [
       "Developed Tour & Travel Management System",
       "Built responsive UI using React & Tailwind",
